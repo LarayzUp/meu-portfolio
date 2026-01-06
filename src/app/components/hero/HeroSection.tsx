@@ -38,7 +38,7 @@ export default function HeroSection() {
       `}} />
 
       <section id="home" className="pt-32 pb-20 px-4 sm:px-6 lg:px-8 relative">
-        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-black/50 to-black pointer-events-none"></div>
+        <div className="absolute inset-0 bg-linear-to-b from-transparent via-black/50 to-black pointer-events-none"></div>
         <div className="max-w-7xl mx-auto relative z-10">
           <div className="text-center">
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6" style={{ fontFamily: 'Inter, system-ui, sans-serif' }}>
